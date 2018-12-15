@@ -1,0 +1,1 @@
+14. There is an employer table with key fields as employer number data in every  n'th row are needed for a simple following queries will get required results.
